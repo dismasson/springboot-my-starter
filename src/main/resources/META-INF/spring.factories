@@ -1,2 +1,2 @@
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
-com.sxli.mystarter.config.MyStarterConfig
+com.sxli.mystarter.config.MyStarterConfig,com.sxli.mystarter.config.MyStarterMarkerConfig
